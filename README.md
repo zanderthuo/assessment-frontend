@@ -1,5 +1,5 @@
 # Frontend Assessment 
 
 Name: Alexander Thuo
-Company: Ndovucloud
+Company: tezzasolutions
 phone: 0719808225
